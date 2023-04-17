@@ -25456,25 +25456,6 @@ Version:1.0
         /* width: 35px; */
     }
 
-    .shopping-cart .table td::before {
-        content: attr(data-title);
-        display: block;
-        font-weight: bold;
-        position: absolute;
-        left: 0px;
-        top: 0px;
-        padding: 10px 20px;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        width: 50%;
-        height: 100%;
-        border-bottom: 1px solid #e6ebee;
-        background: #F7941D;
-        color: #fff;
-        border: none;
-    }
-
     .shopping-cart .table td {
         vertical-align: middle;
         padding: 10px;
