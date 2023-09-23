@@ -41,7 +41,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,7 +56,6 @@
       <workItem from="1672993867827" duration="33000" />
       <workItem from="1672994000935" duration="21000" />
       <workItem from="1681721451991" duration="48000" />
-      <workItem from="1695461813997" duration="212000" />
     </task>
     <servers />
   </component>
@@ -77,9 +75,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="165" key="SettingsEditor" timestamp="1695461822293">
+    <state x="353" y="502" width="579" height="538" key="find.popup" timestamp="1681721487320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="476" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1695461822293" />
+    <state x="353" y="502" width="579" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1681721487320" />
   </component>
 </project>
