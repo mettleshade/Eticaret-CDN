@@ -22150,7 +22150,7 @@ body[data-layout=boxed] .wrapper {
     font-style: normal;
     font-weight: 900;
     src: url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.eot);
-    src: url(../fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../fonts/fa-solid-900.woff2) format("woff2"), url(../fonts/fa-solid-900.woff) format("woff"), url(../fonts/fa-solid-900.ttf) format("truetype"), url(../fonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.ttf) format("truetype"), url(https://cdn.jsdelivr.net/gh/mettleshade/Eticaret-CDN@main/css/fonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa, .far, .fas {
